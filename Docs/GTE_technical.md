@@ -1,7 +1,3 @@
-Dưới đây là tài liệu kỹ thuật chi tiết bằng tiếng Việt cho đoạn mã **Global Trajectory Estimation (GTE)** mà bạn cung cấp. Tài liệu này được cấu trúc theo phong cách chuyên nghiệp giống như file mẫu tiếng Anh bạn đã gửi.
-
----
-
 # Tài Liệu Kỹ Thuật: Hệ Thống Ước Lượng Quỹ Đạo Toàn Cục (Global Trajectory Estimation - GTE)
 
 **Tác giả**: Dự án V-AIM  
