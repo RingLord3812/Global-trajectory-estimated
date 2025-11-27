@@ -1,8 +1,4 @@
-Dưới đây là bản báo cáo kỹ thuật chuyên sâu, được mở rộng chi tiết về mặt lý thuyết toán học, kiến trúc hệ thống và mã nguồn thực thi để tích hợp vào đồ án Global Trajectory Estimation (GTE) của bạn.
-
----
-
-# BÁO CÁO KỸ THUẬT: TÍCH HỢP BỘ LỌC THÍCH NGHI ĐA TẦNG (MULTI-STAGE ADAPTIVE FILTER) VÀO ƯỚC LƯỢNG QUỸ ĐẠO TOÀN CỤC
+# BÁO CÁO KỸ THUẬT: TÍCH HỢP BỘ LỌC THÍCH NGHI ĐA TẦNG (MULTI-STAGE ADAPTIVE FILTER) VÀO GLOBAL TRAJECTORY ESTIAMTION (GTE)
 
 ## 1. Đặt vấn đề và Phạm vi nghiên cứu
 
